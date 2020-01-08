@@ -1,0 +1,2 @@
+# NLP-with-Python
+Yorumları analiz edebilmek için orjinal kelime, N-gram, kelime vektörleri yöntemleri kullanılarak her bir yöntem ile tf-idf şeklinde veri setleri oluşturuldu. Analiz için Random Forest, Naive Bayes, LinearSVC, SGD ve Logistic Regression sınıflandırıcıları kullanılmış ve transfer yöntemleri denenmiştir. Transfer öğrenme konusunda en başarılı metin sınıflandırıcının n-gram, en başarılı sınıflandırıcının ise LinearSVC olduğu görülmüştür.
